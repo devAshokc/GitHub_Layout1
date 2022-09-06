@@ -1,0 +1,46 @@
+.navbar {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+}
+
+.img {
+    height: 550px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.img1 {
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.icon {
+    position: absolute;
+    color: white;
+    top: 2;
+    left: 16px;
+}
+
+.column {
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 16px;
+}
+
+.frstcol {
+    height: 550px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.frstrow {
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 16px;
+}
+
+
+/*  */
